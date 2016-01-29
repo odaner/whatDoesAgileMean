@@ -9,7 +9,8 @@ http://agilemanifesto.org
 http://pragdave.me/blog/2014/03/04/time-to-kill-agile/
 
 https://youtu.be/a-BOSpxYJ9M
-https://youtu.be/GE6lbPLEAzc
+
+https://youtu.be/GE6lbPLEAzc
 
 https://vimeo.com/44234746
 
