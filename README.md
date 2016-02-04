@@ -1,6 +1,7 @@
 # What does "Agile" mean?
 A keynote about the meaning of the word "Agile".
-Higly inspired by Dave Thomas, Martin Fowler, Neal Ford and Dan North
+
+Higly inspired by Dave Thomas, Martin Fowler, Neal Ford and Dan North.
 
 ## Sources
 
