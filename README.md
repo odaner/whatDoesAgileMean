@@ -17,4 +17,10 @@ https://vimeo.com/44234746
 
 https://www.artefactgroup.com/content/post-agile-a-design-thinking-approach-to-software-development/
 
+http://martinfowler.com/bliki/SemanticDiffusion.html
+
+http://martinfowler.com/articles/newMethodology.html
+
+http://martinfowler.com/articles/designDead.html
+
 https://github.com/oreillymedia/97-things-every-agile-developer-should-know/blob/master/Beware_Of_Agile_Zealots.asciidoc
